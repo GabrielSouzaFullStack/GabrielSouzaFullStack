@@ -27,5 +27,3 @@ Me chamo Gabriel de Souza, tenho 20 anos e sou natural de Rio Grande do Sul. Atu
 ### 📊 Estátisticas
 
 ![Snake animation](https://github.com/GabrielSouzaFullStack/GabrielSouzaFullStack/blob/output/github-user-contribution.svg)
-
-Apaixonado por programação e soluções de problemas envolvendo o mundo tecnologico.
