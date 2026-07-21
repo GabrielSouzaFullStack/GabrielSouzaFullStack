@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=GabrielSouzaFullStack&show_icons=true&theme=tokyonight
+          options: username=GabrielSouzaFullStack&show_icons=true&theme=github_dark
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -28,7 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=GabrielSouzaFullStack}&layout=compact&langs_count=6
+          options: username=GabrielSouzaFullStack&layout=compact&langs_count=6&theme=github_dark
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
