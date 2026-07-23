@@ -5,8 +5,8 @@ on:
     - cron: "0 0 * * *" # Runs once daily at midnight
   workflow_dispatch:
   push:
-      branches: 
-        - main
+    branches:
+      - main
 
 jobs:
   build:
@@ -15,7 +15,7 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v4
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
@@ -24,7 +24,6 @@ jobs:
           options: username=GabrielSouzaFullStack&show_icons=true&theme=github_dark
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
