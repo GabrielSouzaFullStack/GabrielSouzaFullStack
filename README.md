@@ -33,5 +33,9 @@ Me chamo Gabriel de Souza, tenho 20 anos e sou natural de Rio Grande do Sul. Atu
 ### GitHub Stats
 
 <div align="center">
-    <img src="./profile/top-langs.svg" alt="Top Languages" width="49%" />
+    <img src="./profile/top-langs.svg" alt="Top Languages" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielSouzaFullStack&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
