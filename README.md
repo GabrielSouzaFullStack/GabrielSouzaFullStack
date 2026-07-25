@@ -38,5 +38,5 @@ Me chamo Gabriel de Souza, tenho 20 anos e sou natural de Rio Grande do Sul. Atu
 
 ---
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+<!-- ![Stats](./profile/stats.svg) -->
+<!-- ![Top Languages](./profile/top-langs.svg) -->
